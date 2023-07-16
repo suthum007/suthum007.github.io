@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5B3Ad6537E9bb57930403b49cdd879e435228a24",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x5b3ad6537e9bb57930403b49cdd879e435228a24",
+  "NETWORK": {
+    "NAME": "Goerli ETH",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Black Shark Nft",
+  "SYMBOL": "BSN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 250000000000000,
+  "DISPLAY_COST": 0.00025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
