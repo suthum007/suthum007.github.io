@@ -1,8 +1,8 @@
 {
-  "CONTRACT_ADDRESS": "0x9C9fD2470cf7B057074c36E11D31708ADCfAE8aB",
+  "CONTRACT_ADDRESS": "0xe49367530350b57C85f318Bf0FC859E0fa1D8804",
   "SCAN_LINK": "https://goerli.etherscan.io/address/0x9C9fD2470cf7B057074c36E11D31708ADCfAE8aB",
   "NETWORK": {
-    "NAME": "Goerli ETH",
+    "NAME": "Base",
     "SYMBOL": "ETH",
     "ID": 5
   },
