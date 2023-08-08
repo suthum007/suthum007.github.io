@@ -1,6 +1,6 @@
 {
   "CONTRACT_ADDRESS": "0xe49367530350b57C85f318Bf0FC859E0fa1D8804",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0x9C9fD2470cf7B057074c36E11D31708ADCfAE8aB",
+  "SCAN_LINK": "https://basescan.org/address/0xe49367530350b57c85f318bf0fc859e0fa1d8804",
   "NETWORK": {
     "NAME": "Base",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.00025,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/black-shark-nft",
   "SHOW_BACKGROUND": true
 }
